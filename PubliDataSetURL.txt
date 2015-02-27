@@ -2,6 +2,7 @@ General DataSet
 
 http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html
 http://stackoverflow.com/questions/10843892/download-large-data-for-
+https://www.quandl.com/ (Data based on the api or download CSV,JSON)
 
 
 Text Mining DataSet
@@ -14,7 +15,7 @@ Pattern recognition DataSet
 
 Collaborativeve filtering DataSet
 
-Predic+on models DataSet
+Prediction models DataSet
 
 Sentiment analysis (Social Media Data Set) DataSet
 
