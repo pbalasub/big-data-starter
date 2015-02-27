@@ -1,1 +1,21 @@
+General DataSet
 
+http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html
+http://stackoverflow.com/questions/10843892/download-large-data-for-
+
+
+Text Mining DataSet
+
+IndeX building DataSet
+
+Graphcreatioon and analysis DataSet (LogFile analysis)
+
+Pattern recognition DataSet
+
+Collaborativeve filtering DataSet
+
+Predic+on models DataSet
+
+Sentiment analysis (Social Media Data Set) DataSet
+
+Risk assessment DataSet
