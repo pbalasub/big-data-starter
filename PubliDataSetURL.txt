@@ -2,7 +2,10 @@ General DataSet
 
 http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html
 http://stackoverflow.com/questions/10843892/download-large-data-for-
-https://www.quandl.com/ (Data based on the api or download CSV,JSON)
+https://www.quandl.com/ (Data based on the api or download CSV,JSON. We can write CURL commands and store data as files, need a separate code to gather data periodically)
+
+http://blogs.msdn.com/b/avkashchauhan/archive/2012/04/12/processing-million-songs-dataset-with-pig-scripts-on-apache-hadoop-on-windows-azure.aspx
+
 
 
 Text Mining DataSet
